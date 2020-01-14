@@ -9,7 +9,7 @@ date: "2017-07-010T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0169601"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-10-01T00:00:00Z"
+publishDate: "2017-01-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
