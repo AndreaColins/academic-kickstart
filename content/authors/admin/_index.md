@@ -48,13 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:andrea.colins@postgrad.manchester.ac.uk"  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AndreaColins
-- icon: orcid
+- icon: google-scholar
   icon_pack: ai
-  link:https://orcid.org/0000-0003-3584-2251
+  link: https://orcid.org/0000-0003-3584-2251
 - icon: github
   icon_pack: fab
   link: https://github.com/AndreaColinsR
