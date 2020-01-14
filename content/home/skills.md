@@ -26,5 +26,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Matlab"
   description = ""
+  
+  [[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Matlab"
+  description = ""
 
 +++
