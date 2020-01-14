@@ -25,7 +25,7 @@ abstract: Iron is a trace metal, key for the development of living organisms. It
 
 
 # Summary. An optional shortened abstract.
-#summary: Phys. Rev. B **98**, 144502 (2018)
+summary: Plos One **12**, e0169601 (2017)
 
 tags:
 - Mathematical modeling
