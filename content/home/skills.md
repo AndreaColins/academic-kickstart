@@ -19,11 +19,12 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics" 
+  description = ""
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Matlab"
-  
+  description = ""
 
 +++
