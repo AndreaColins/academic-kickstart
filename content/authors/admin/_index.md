@@ -52,7 +52,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AndreaColins
-- icon: google-scholar
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3584-2251
 - icon: github
