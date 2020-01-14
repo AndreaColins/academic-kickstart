@@ -3,7 +3,7 @@ title: "Mathematical Modeling of Intestinal Iron Absorption Using Genetic Progra
 authors:
 - Andrea Colins
 - Ziomara P. Gerdtzen
-- Marco T. Nu{\~{n}}ez
+- Marco T. Nuñez
 - J. Cristian Salgado
 date: "2017-07-010T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0169601"
