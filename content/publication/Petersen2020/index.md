@@ -53,8 +53,8 @@ featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
- image: 
-  caption: "Figure 4"
+# image: "featured.png"
+#  caption: "Figure 4"
 #  focal_point: ""
 #  preview_only: false
 
