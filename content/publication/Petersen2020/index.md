@@ -33,27 +33,28 @@ tags:
 - Neuroscience
 - Whisker system
 
-featured: false
+
 
 links:
  - name: "bioRxiv"
    url: "https://www.biorxiv.org/content/10.1101/773697v1"
 # url_pdf: 
  - name: "github"
-   url_code: "https://github.com/PetersenLab/WhiskerMan"
+   url_code: "https://www.github.com/PetersenLab/WhiskerMan"
  - name: "data"  
-   url_dataset: "http://doi.org/10.6084/m9.figshare.9758894"
+   url_dataset: "http://www.doi.org/10.6084/m9.figshare.9758894"
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
 # url_video: ''
 
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Figure 4'
+ image: 
+  caption: "Figure 4"
 #  focal_point: ""
 #  preview_only: false
 
