@@ -14,6 +14,11 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Matlab"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
@@ -21,16 +26,11 @@ subtitle = ""
   name = "Statistics" 
   description = ""
   
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Matlab"
-  description = ""
   
   [[feature]]
-  icon = "laptop-code"
+  icon = "python"
   icon_pack = "fas"
-  name = "Matlab"
+  name = "Python"
   description = ""
 
 +++
