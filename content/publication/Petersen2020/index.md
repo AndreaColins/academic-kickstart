@@ -35,12 +35,14 @@ tags:
 
 featured: false
 
-#links:
- - name: "bioRXiv"
+links:
+ - name: "bioRxiv"
    url: "https://www.biorxiv.org/content/10.1101/773697v1"
 # url_pdf: 
-# url_code: "https://github.com/PetersenLab/WhiskerMan"
-# url_dataset: "http://doi.org/10.6084/m9.figshare.9758894"
+ - name: "github"
+   url_code: "https://github.com/PetersenLab/WhiskerMan"
+ - name: "data"  
+   url_dataset: "http://doi.org/10.6084/m9.figshare.9758894"
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
