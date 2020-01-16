@@ -1,8 +1,8 @@
 ---
 title: "A system for tracking whisker kinematics and whisker shape in three dimensions"
 authors:
-- Rasmus Petersen*
-- Andrea Colins*
+- Rasmus Petersen
+- Andrea Colins
 - Mathew Evans
 - Dario Campagner
 - Michaela Loft
@@ -33,19 +33,9 @@ tags:
 - Neuroscience
 - Whisker system
 
-featured: true
+featured: false
 
-#links:
- - name: "bioRXiv"
-   url: "https://www.biorxiv.org/content/10.1101/773697v1"
-# url_pdf: 
- url_code: "https://github.com/PetersenLab/WhiskerMan"
- url_dataset: "http://doi.org/10.6084/m9.figshare.9758894"
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
