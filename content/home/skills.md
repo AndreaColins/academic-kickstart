@@ -28,7 +28,7 @@ subtitle = ""
   
   
   [[feature]]
-  icon = "fa-python"
+  icon = "terminal"
   icon_pack = "fas"
   name = "Python"
   description = ""
