@@ -40,9 +40,10 @@ links:
    url: "https://www.biorxiv.org/content/10.1101/773697v1"
 # url_pdf: 
  - name: "github"
-   url_code: "https://www.github.com/PetersenLab/WhiskerMan"
+   url_code: ""
+# https://www.github.com/PetersenLab/WhiskerMan   
  - name: "data"  
-   url_dataset: "https://www.biorxiv.org/content/10.1101/773697v1"
+   url_dataset: "https://figshare.com/articles/Whiskerman_tutorial/9758894"
 # "http://www.doi.org/10.6084/m9.figshare.9758894"   
 # url_poster: ''
 # url_project: ''
