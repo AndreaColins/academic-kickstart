@@ -37,13 +37,13 @@ tags:
 
 links:
  - name: "bioRxiv"
-   url: "https://figshare.com/articles/Whiskerman_tutorial/9758894"
+   url: "https://doi.org/10.1101/773697"
 # url_pdf: 
- - name: "github"
-   url_code: ""
+ - name: "Github"
+   url: "https://www.github.com/PetersenLab/WhiskerMan"
 # https://www.github.com/PetersenLab/WhiskerMan   
- - name: "data"  
-   url_dataset: "https://figshare.com/articles/Whiskerman_tutorial/9758894"
+ - name: "Data"  
+   url: "http://www.doi.org/10.6084/m9.figshare.9758894"
 # "http://www.doi.org/10.6084/m9.figshare.9758894"   
 # url_poster: ''
 # url_project: ''
