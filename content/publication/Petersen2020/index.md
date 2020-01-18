@@ -37,7 +37,7 @@ tags:
 
 links:
  - name: "bioRxiv"
-   url: "https://www.biorxiv.org/content/10.1101/773697v1"
+   url: "https://figshare.com/articles/Whiskerman_tutorial/9758894"
 # url_pdf: 
  - name: "github"
    url_code: ""
