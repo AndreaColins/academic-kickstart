@@ -31,7 +31,7 @@ abstract: Quantification of behaviour is essential for systems neuroscience. Sin
 tags:
 - Behaviour
 - Neuroscience
-- Whisker system
+- Whisker System
 
 
 
